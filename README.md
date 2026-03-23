@@ -1,5 +1,5 @@
 ## Resume
-[View Resume](Harini_R_Resume.pdf)
+[View Resume](HARINI_R_Resume.pdf)
 
 # Cognitive Health ML Projects
 
