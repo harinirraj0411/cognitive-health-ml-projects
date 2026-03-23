@@ -1,3 +1,6 @@
+## Resume
+[View Resume](Harini_R_Resume.pdf)
+
 # Cognitive Health ML Projects
 
 This repository contains machine learning and data analysis projects focused on cognitive health and early detection of cognitive decline.
